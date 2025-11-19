@@ -46,7 +46,7 @@ The server-side application for the AI Prompt Generator. Built with Node.js and 
 
 5.  **Start the server:**
     ```bash
-    npm run dev
+    node server.js
     ```
 
 ## 📬 Contact
