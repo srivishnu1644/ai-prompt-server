@@ -16,7 +16,7 @@ The server-side application for the AI Prompt Generator. Built with Node.js and 
 * **Runtime:** Node.js
 * **Framework:** Express.js
 * **Database:** MongoDB & Mongoose
-* **Utilities:** Cors, Dotenv, Nodemon
+* **Utilities:** Cors, Dotenv
 
 ## 💻 How to Run Locally
 
