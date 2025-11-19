@@ -24,7 +24,6 @@ The server-side application for the AI Prompt Generator. Built with Node.js and 
     ```bash
     git clone [https://github.com/srivishnu1644/ai-prompt-server.git](https://github.com/srivishnu1644/ai-prompt-server.git)
     ```
-    *(Note: Update the URL above if your backend repo name is different)*
 
 2.  **Navigate to the project directory:**
     ```bash
@@ -51,4 +50,4 @@ The server-side application for the AI Prompt Generator. Built with Node.js and 
 
 ## 📬 Contact
 
-Created by **Vishnu**
+Created by **Sri Vishnu**
